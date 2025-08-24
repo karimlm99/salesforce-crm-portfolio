@@ -1,0 +1,21 @@
+First Name,Last Name,Company,Title,Email,Phone,Lead Source,Status,Industry,City,Country
+Lead1,Johnson,ProspectCo 1,Operations Manager,lead1.johnson@example.com,+44 20 7946 1001,Referral,Working,Retail,Manchester,UK
+Lead2,Brown,ProspectCo 2,Operations Manager,lead2.brown@example.com,+44 20 7946 1002,Email,Qualified,Healthcare,Birmingham,UK
+Lead3,Taylor,ProspectCo 3,Operations Manager,lead3.taylor@example.com,+44 20 7946 1003,Event,Nurturing,Finance,Leeds,UK
+Lead4,Anderson,ProspectCo 4,Operations Manager,lead4.anderson@example.com,+44 20 7946 1004,Phone Inquiry,New,Manufacturing,Edinburgh,UK
+Lead5,Patel,ProspectCo 5,Operations Manager,lead5.patel@example.com,+44 20 7946 1005,Web,Working,Education,Bristol,UK
+Lead6,Singh,ProspectCo 6,Operations Manager,lead6.singh@example.com,+44 20 7946 1006,Referral,Qualified,Technology,Cardiff,UK
+Lead7,Williams,ProspectCo 7,Operations Manager,lead7.williams@example.com,+44 20 7946 1007,Email,Nurturing,Retail,Glasgow,UK
+Lead8,Davis,ProspectCo 8,Operations Manager,lead8.davis@example.com,+44 20 7946 1008,Event,New,Healthcare,London,UK
+Lead9,Wilson,ProspectCo 9,Operations Manager,lead9.wilson@example.com,+44 20 7946 1009,Phone Inquiry,Working,Finance,Manchester,UK
+Lead10,Smith,ProspectCo 10,Operations Manager,lead10.smith@example.com,+44 20 7946 1010,Web,Qualified,Manufacturing,Birmingham,UK
+Lead11,Johnson,ProspectCo 11,Operations Manager,lead11.johnson@example.com,+44 20 7946 1011,Referral,Nurturing,Education,Leeds,UK
+Lead12,Brown,ProspectCo 12,Operations Manager,lead12.brown@example.com,+44 20 7946 1012,Email,New,Technology,Edinburgh,UK
+Lead13,Taylor,ProspectCo 13,Operations Manager,lead13.taylor@example.com,+44 20 7946 1013,Event,Working,Retail,Bristol,UK
+Lead14,Anderson,ProspectCo 14,Operations Manager,lead14.anderson@example.com,+44 20 7946 1014,Phone Inquiry,Qualified,Healthcare,Cardiff,UK
+Lead15,Patel,ProspectCo 15,Operations Manager,lead15.patel@example.com,+44 20 7946 1015,Web,Nurturing,Finance,Glasgow,UK
+Lead16,Singh,ProspectCo 16,Operations Manager,lead16.singh@example.com,+44 20 7946 1016,Referral,New,Manufacturing,London,UK
+Lead17,Williams,ProspectCo 17,Operations Manager,lead17.williams@example.com,+44 20 7946 1017,Email,Working,Education,Manchester,UK
+Lead18,Davis,ProspectCo 18,Operations Manager,lead18.davis@example.com,+44 20 7946 1018,Event,Qualified,Technology,Birmingham,UK
+Lead19,Wilson,ProspectCo 19,Operations Manager,lead19.wilson@example.com,+44 20 7946 1019,Phone Inquiry,Nurturing,Retail,Leeds,UK
+Lead20,Smith,ProspectCo 20,Operations Manager,lead20.smith@example.com,+44 20 7946 1020,Web,New,Healthcare,Edinburgh,UK
